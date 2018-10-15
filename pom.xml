@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>store.js</artifactId>
-    <version>2.0.12</version>
+    <version>2.0.13-SNAPSHOT</version>
     <name>store.js</name>
     <description>WebJar for store.js</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/store.js</url>
         <connection>scm:git:https://github.com/webjars/store.js.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/store.js.git</developerConnection>
-        <tag>store.js-2.0.12</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <properties>
